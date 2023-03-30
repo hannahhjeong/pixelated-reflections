@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+canvas {
+  display: block;
+}
+
+p {
+  color: white;
+  font-size: 10;
+  font-family:arial, sans-serif;
+  line-height: 30%;
+}
